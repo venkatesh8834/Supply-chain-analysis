@@ -47,3 +47,13 @@ The goal is to identify:
 - Business insight storytelling
 - Dashboard design
 
+## Dashboard Previews
+
+### Dashboard 1 – Executive Overview
+[![Dashboard 1](screenshots/dashboard1.png)](https://github.com/venkatesh8834/Supply-chain-analysis/blob/main/Screenshot%20dashboard%201.jpg)
+
+### Dashboard 2 – Inventory Optimization
+[![Dashboard 2](screenshots/dashboard2.png)](https://github.com/venkatesh8834/Supply-chain-analysis/blob/main/Screenshot%20dashboard%202.jpg)
+
+### Dashboard 3 – Supply Chain Analysis
+[![Dashboard 3](screenshots/dashboard3.png)](https://github.com/venkatesh8834/Supply-chain-analysis/blob/main/Screenshot%20dashboard%203.jpg)
