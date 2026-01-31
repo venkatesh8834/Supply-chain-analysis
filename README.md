@@ -50,10 +50,13 @@ The goal is to identify:
 ## Dashboard Previews
 
 ### Dashboard 1 – Executive Overview
-[![Dashboard 1](screenshots/dashboard1.png)](https://github.com/venkatesh8834/Supply-chain-analysis/blob/main/Screenshot%20dashboard%201.jpg)
+![Screenshot dashboard 1](https://github.com/user-attachments/assets/7cdee2d0-54dd-4225-b8c8-84367521f2b4)
+
 
 ### Dashboard 2 – Inventory Optimization
-[![Dashboard 2](screenshots/dashboard2.png)](https://github.com/venkatesh8834/Supply-chain-analysis/blob/main/Screenshot%20dashboard%202.jpg)
+![Screenshot dashboard 2](https://github.com/user-attachments/assets/cf6f3825-ff1a-4707-a15f-f258005c1788)
+
 
 ### Dashboard 3 – Supply Chain Analysis
-[![Dashboard 3](screenshots/dashboard3.png)](https://github.com/venkatesh8834/Supply-chain-analysis/blob/main/Screenshot%20dashboard%203.jpg)
+![Screenshot dashboard 3](https://github.com/user-attachments/assets/f18c1bf6-fab7-4810-9e29-fca8b2975f90)
+
